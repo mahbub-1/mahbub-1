@@ -25,4 +25,4 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </p>
-<img src="https://i.ibb.co/zHk6WcM/screencapture-profile-summary-for-github-user-mahabubulislam-2022-08-28-17-33-03.png"/>
+<!-- <img src="https://i.ibb.co/zHk6WcM/screencapture-profile-summary-for-github-user-mahabubulislam-2022-08-28-17-33-03.png"/> -->
