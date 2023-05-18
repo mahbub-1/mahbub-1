@@ -3,7 +3,7 @@
 <!-- looking for an oppurtinity as Frontend Developer | React Developer | Web Developer | MERN Developer -->
 
 - 🔭 I’m currently working as a JavaScript Developer at DevsNest LLC
-- 🌱 I’m currently learning Advanced NodeJS, Express JS, MongoDB 
+- 🌱 I’m currently learning TypeScript, Redux, RDBMS 
 <!-- - 👯 I’m currently open for work. -->
 <!-- - 🤔 I’m looking for help with IT Recruiter -->
 - 💬 Ask me about Web Development
