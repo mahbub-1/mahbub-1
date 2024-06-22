@@ -1,28 +1,72 @@
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
-# I am Mahabubul Islam
-<!-- looking for an oppurtinity as Frontend Developer | React Developer | Web Developer | MERN Developer -->
-
+<!--
 - 🔭 I’m currently working as a JavaScript Developer at DevsNest LLC
-- 🌱 I’m currently learning TypeScript, Redux, RDBMS 
-<!-- - 👯 I’m currently open for work. -->
-<!-- - 🤔 I’m looking for help with IT Recruiter -->
-- 💬 Ask me about Web Development
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mahabubulislam/">LinkedIn<a/> | <a href="https://mahabubul-islam.netlify.app/">Portfolio<a/> | <a href="https://facebook.com/mahabubulislam22">Facebook<a/> | <a href="https://wa.me/+8801612737388">Whatsapp</a> 
+- 🌱 I’m currently learning TypeScript, Redux, RDBMS
 - 😄 Nickname: Mahbub
+- 👯 I’m currently open for work. 
+- 🤔 I’m looking for help with IT Recruiter 
+- 💬 Ask me about Web Development
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-</p>
-<!-- <img src="https://i.ibb.co/zHk6WcM/screencapture-profile-summary-for-github-user-mahabubulislam-2022-08-28-17-33-03.png"/> -->
+
+# Hi there, I'm Mahabubul Islam 👋
+
+I'm a passionate Web developer with over 2 years of experience. I’m currently working as a Software Engineer at [DevsNest LLC](https://bd.devsnest.net/). I love building web applications and working on innovative projects. Here’s a bit about me and what I do:
+
+## 🚀 Skills and Expertise
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React JS, Next JS, Redux, Solid JS, React Native
+- **Backend:** Node.js, Express.js, Redis, REST APIs, GraphQL, JWT
+- **Databases:** MongoDB, PostgreSQL
+- **ORM:** Mongoose, Prisma
+- **E-commerce:** Shopify App Development
+- **Cloud Services:** AWS Lambda, AWS S3
+
+## 🛠️ Tools and Technologies
+
+- **Version Control:** Git, GitHub
+- **Package Managers:** npm, yarn, bun
+- **DevOps:** Docker, CI/CD
+- **Others:** Webpack, Babel
+<!--
+## 🌟 Projects and Contributions
+
+### [Project 1](https://github.com/your-username/project-1)
+A brief description of Project 1. Highlight key features or technologies used.
+
+### [Project 2](https://github.com/your-username/project-2)
+A brief description of Project 2. Highlight key features or technologies used.
+
+### [Shopify App - Example App](https://github.com/your-username/shopify-app-example)
+A Shopify app that [does something specific]. Built with Node.js, Express.js, and React.
+-->
+## 📈 GitHub Stats
+
+![Mahabubul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahabubulislam&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Mahabubul Islam](https://www.linkedin.com/in/mahabubulislam/)
+- **Facebook:** [Mahabubul Islam](https://facebook.com/mahabubulislam22)
+- **Whatsapp:** [01612737388](https://wa.me/+8801612737388)
+
+## 📄 Resume
+
+You can view my resume [here](https://drive.google.com/file/d/18mOjVQktP_xjZIDuU4YG-PI9Qwd1O3CZ/view).
+
+## 👨‍💻 Portfolio
+
+You can view my portfolio [here](https://mahabubul-islam.netlify.app).
+
+## 💬 Let's Connect!
+
+I'm always open to interesting projects and opportunities. Feel free to reach out to me!
+
+---
+<!--
+
+**Fun Fact:** [Something interesting about you or your work]
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mahabubulislam)
+-->
+
