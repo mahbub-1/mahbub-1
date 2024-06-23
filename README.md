@@ -28,6 +28,20 @@ I'm a passionate Web developer with over 2 years of experience. I’m currently 
 - **Package Managers:** npm, yarn, bun
 - **DevOps:** Docker, CI/CD
 - **Others:** Webpack, Babel
+
+## 🔭 Work Experience
+### [DevsNest LLC](https://bd.devsnest.net/)
+**Software Engineer | September 21, 2022 – Present**
+- Spearheaded the design and development of frontend widgets for Shopify stores,
+leveraging JavaScript and React.js to enhance user experiences.
+- Created Shopify applications by harnessing the power of Node, Express, TypeScript,
+Prisma, Remix, and React contribute to the company's suite of innovative e-commerce
+solutions.
+- Demonstrated dedication to maintaining and upgrading existing projects, consistently
+implementing the latest technologies and adhering to best practices for optimal
+performance and functionality.
+
+
 <!--
 ## 🌟 Projects and Contributions
 
