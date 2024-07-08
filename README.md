@@ -56,7 +56,7 @@ A Shopify app that [does something specific]. Built with Node.js, Express.js, an
 -->
 ## 📈 GitHub Stats
 
-![Mahabubul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahabubulislam&show_icons=true&theme=radical)
+![Mahabubul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahbub-1&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
