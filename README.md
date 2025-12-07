@@ -10,15 +10,15 @@
 
 # Hi there, I'm Mahabubul Islam 👋
 
-I'm a passionate Web developer with over 2 years of experience. I’m currently working as a Software Engineer at [DevsNest LLC](https://bd.devsnest.net/). I love building web applications and working on innovative projects. Here’s a bit about me and what I do:
+I'm a passionate Web developer with over 3 years of experience. I’m currently working as a Software Engineer at [DevsNest LLC](https://bd.devsnest.net/). I love building web applications and working on innovative projects. Here’s a bit about me and what I do:
 
 ## 🚀 Skills and Expertise
 
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React JS, Next JS, Redux, Solid JS, React Native
 - **Backend:** Node.js, Express.js, Redis, REST APIs, GraphQL, JWT
-- **Databases:** MongoDB, PostgreSQL
-- **ORM:** Mongoose, Prisma
+- **Databases:** MongoDB, PostgreSQL , MySQL
+- **ORM:** Mongoose, Prisma, Drizzle
 - **E-commerce:** Shopify App Development
 - **Cloud Services:** AWS Lambda, AWS S3
 
